@@ -1,2 +1,2 @@
-let foo =     'foo';
-let bar =      "bar"
+let foo = "foo"
+let bar = "bar"
